@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Troféu Karting Linksport//Calendário//PT
+BEGIN:VEVENT
+DTSTART:20240913T081500
+DTEND:20240913T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Campera
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T083000
+DTEND:20240913T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Campera
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240913T103000
+DTEND:20240913T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Campera
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T081500
+DTEND:20240927T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Leiria
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T083000
+DTEND:20240927T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Leiria
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240927T103000
+DTEND:20240927T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Leiria
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T081500
+DTEND:20241011T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Abrantes
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T083000
+DTEND:20241011T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Abrantes
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T103000
+DTEND:20241011T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Abrantes
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T081500
+DTEND:20241101T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Batalha
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T083000
+DTEND:20241101T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Batalha
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241101T103000
+DTEND:20241101T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Batalha
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T081500
+DTEND:20241115T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T083000
+DTEND:20241115T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T103000
+DTEND:20241115T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T081500
+DTEND:20241129T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T083000
+DTEND:20241129T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241129T103000
+DTEND:20241129T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T081500
+DTEND:20241206T082500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+LOCATION:Kartódromo de Évora
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T083000
+DTEND:20241206T084000
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+LOCATION:Kartódromo de Évora
+DESCRIPTION:Treinos Livres: 10m
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T103000
+DTEND:20241206T114500
+SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Mini-Resistência
+LOCATION:Kartódromo de Évora
+DESCRIPTION:Mini-Resistência: 15+60m
+END:VEVENT
+END:VCALENDAR
