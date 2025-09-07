@@ -31,7 +31,7 @@ UID:Mini-Res-20250913-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20250913T081500
 DTEND;TZID=Europe/Lisbon:20250913T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Campera
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -43,7 +43,7 @@ UID:Mini-Res-20250913-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20250913T083000
 DTEND;TZID=Europe/Lisbon:20250913T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Campera
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -67,7 +67,7 @@ UID:Mini-Res-20250927-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20250927T081500
 DTEND;TZID=Europe/Lisbon:20250927T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Leiria
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -79,7 +79,7 @@ UID:Mini-Res-20250927-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20250927T083000
 DTEND;TZID=Europe/Lisbon:20250927T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Leiria
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -103,7 +103,7 @@ UID:Mini-Res-20251011-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251011T081500
 DTEND;TZID=Europe/Lisbon:20251011T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Abrantes
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -115,7 +115,7 @@ UID:Mini-Res-20251011-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251011T083000
 DTEND;TZID=Europe/Lisbon:20251011T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Abrantes
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -139,7 +139,7 @@ UID:Mini-Res-20251101-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251101T081500
 DTEND;TZID=Europe/Lisbon:20251101T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Batalha
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -151,7 +151,7 @@ UID:Mini-Res-20251101-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251101T083000
 DTEND;TZID=Europe/Lisbon:20251101T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Batalha
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -175,7 +175,7 @@ UID:Mini-Res-20251115-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251115T081500
 DTEND;TZID=Europe/Lisbon:20251115T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -187,7 +187,7 @@ UID:Mini-Res-20251115-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251115T083000
 DTEND;TZID=Europe/Lisbon:20251115T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -211,7 +211,7 @@ UID:Mini-Res-20251129-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251129T081500
 DTEND;TZID=Europe/Lisbon:20251129T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -223,7 +223,7 @@ UID:Mini-Res-20251129-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251129T083000
 DTEND;TZID=Europe/Lisbon:20251129T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -247,7 +247,7 @@ UID:Mini-Res-20251206-0815-1@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251206T081500
 DTEND;TZID=Europe/Lisbon:20251206T082500
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 1
 LOCATION:Kartódromo de Évora
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
@@ -259,7 +259,7 @@ UID:Mini-Res-20251206-0830-2@kartinglinksport.pt
 DTSTAMP:20250907T200000Z
 DTSTART;TZID=Europe/Lisbon:20251206T083000
 DTEND;TZID=Europe/Lisbon:20251206T084000
-SUMMARY:🏎 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
+SUMMARY:🏁 Troféu Karting Linksport - Mini-Resistência - Treinos Livres 2
 LOCATION:Kartódromo de Évora
 DESCRIPTION:Treinos Livres: 10m
 STATUS:CONFIRMED
