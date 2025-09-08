@@ -224,7 +224,7 @@ DTSTAMP:20250907T212112Z
 DTSTART;TZID=Europe/Lisbon:20251116T120000
 DTEND;TZID=Europe/Lisbon:20251116T121500
 SUMMARY:🏁 Troféu Karting Linksport - Gold - Treinos Livres
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres de 15 minutos às 12:00 antes das provas Gold
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -236,7 +236,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T130000
 DTEND;TZID=Europe/Lisbon:20251116T131700
 SUMMARY:🏎 Troféu Karting Linksport - Gold – M1
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -248,7 +248,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T140000
 DTEND;TZID=Europe/Lisbon:20251116T141700
 SUMMARY:🏎 Troféu Karting Linksport - Gold – M2
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -259,6 +259,54 @@ UID:Gold-M3-20251116-1500@kartinglinksport.pt
 DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T150000
 DTEND;TZID=Europe/Lisbon:20251116T151700
+SUMMARY:🏎 Troféu Karting Linksport - Gold – M3
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TreinosLivres-Gold-20251130-1200@kartinglinksport.pt
+DTSTAMP:20250907T212112Z
+DTSTART;TZID=Europe/Lisbon:20251130T120000
+DTEND;TZID=Europe/Lisbon:20251130T121500
+SUMMARY:🏁 Troféu Karting Linksport - Gold - Treinos Livres
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres de 15 minutos às 12:00 antes das provas Gold
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Gold-M1-20251130-1300@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T130000
+DTEND;TZID=Europe/Lisbon:20251130T131700
+SUMMARY:🏎 Troféu Karting Linksport - Gold – M1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Gold-M2-20251130-1400@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T140000
+DTEND;TZID=Europe/Lisbon:20251130T141700
+SUMMARY:🏎 Troféu Karting Linksport - Gold – M2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Gold-M3-20251130-1500@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T150000
+DTEND;TZID=Europe/Lisbon:20251130T151700
 SUMMARY:🏎 Troféu Karting Linksport - Gold – M3
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m

@@ -224,7 +224,7 @@ DTSTAMP:20250907T212112Z
 DTSTART;TZID=Europe/Lisbon:20251116T120000
 DTEND;TZID=Europe/Lisbon:20251116T121500
 SUMMARY:🏁 Troféu Karting Linksport - Pro - Treinos Livres
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres de 15 minutos às 12:00 antes das provas Pro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -236,7 +236,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T123000
 DTEND;TZID=Europe/Lisbon:20251116T124700
 SUMMARY:🏎 Troféu Karting Linksport - Pro – M1
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -248,7 +248,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T133000
 DTEND;TZID=Europe/Lisbon:20251116T134700
 SUMMARY:🏎 Troféu Karting Linksport - Pro – M2
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -259,6 +259,54 @@ UID:Pro-M3-20251116-1430@kartinglinksport.pt
 DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T143000
 DTEND;TZID=Europe/Lisbon:20251116T144700
+SUMMARY:🏎 Troféu Karting Linksport - Pro – M3
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TreinosLivres-Pro-20251130-1200@kartinglinksport.pt
+DTSTAMP:20250907T212112Z
+DTSTART;TZID=Europe/Lisbon:20251130T120000
+DTEND;TZID=Europe/Lisbon:20251130T121500
+SUMMARY:🏁 Troféu Karting Linksport - Pro - Treinos Livres
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres de 15 minutos às 12:00 antes das provas Pro
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Pro-M1-20251130-1230@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T123000
+DTEND;TZID=Europe/Lisbon:20251130T124700
+SUMMARY:🏎 Troféu Karting Linksport - Pro – M1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Pro-M2-20251130-1330@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T133000
+DTEND;TZID=Europe/Lisbon:20251130T134700
+SUMMARY:🏎 Troféu Karting Linksport - Pro – M2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Pro-M3-20251130-1430@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T143000
+DTEND;TZID=Europe/Lisbon:20251130T144700
 SUMMARY:🏎 Troféu Karting Linksport - Pro – M3
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m

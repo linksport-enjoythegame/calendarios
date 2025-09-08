@@ -224,7 +224,7 @@ DTSTAMP:20250907T204000Z
 DTSTART;TZID=Europe/Lisbon:20251116T083000
 DTEND;TZID=Europe/Lisbon:20251116T084500
 SUMMARY:🏁 Troféu Karting Linksport - Silver – Treinos Livres
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres de 15 minutos antes das provas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -236,7 +236,7 @@ DTSTAMP:20250905T100847Z
 DTSTART;TZID=Europe/Lisbon:20251116T090000
 DTEND;TZID=Europe/Lisbon:20251116T091700
 SUMMARY:🏎 Troféu Karting Linksport - Silver – M1
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -248,16 +248,65 @@ DTSTAMP:20250905T100847Z
 DTSTART;TZID=Europe/Lisbon:20251116T100000
 DTEND;TZID=Europe/Lisbon:20251116T101700
 SUMMARY:🏎 Troféu Karting Linksport - Silver – M2
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+
 BEGIN:VEVENT
 UID:Silver-M3-20251116-1100@kartinglinksport.pt
 DTSTAMP:20250905T100847Z
 DTSTART;TZID=Europe/Lisbon:20251116T110000
 DTEND;TZID=Europe/Lisbon:20251116T111700
+SUMMARY:🏎 Troféu Karting Linksport - Silver – M3
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TreinosLivres-Silver-20251130-0830@kartinglinksport.pt
+DTSTAMP:20250907T204000Z
+DTSTART;TZID=Europe/Lisbon:20251130T083000
+DTEND;TZID=Europe/Lisbon:20251130T084500
+SUMMARY:🏁 Troféu Karting Linksport - Silver – Treinos Livres
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres de 15 minutos antes das provas
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Silver-M1-20251130-0900@kartinglinksport.pt
+DTSTAMP:20250905T100847Z
+DTSTART;TZID=Europe/Lisbon:20251130T090000
+DTEND;TZID=Europe/Lisbon:20251130T091700
+SUMMARY:🏎 Troféu Karting Linksport - Silver – M1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Silver-M2-20251130-1000@kartinglinksport.pt
+DTSTAMP:20250905T100847Z
+DTSTART;TZID=Europe/Lisbon:20251130T100000
+DTEND;TZID=Europe/Lisbon:20251130T101700
+SUMMARY:🏎 Troféu Karting Linksport - Silver – M2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Silver-M3-20251130-1100@kartinglinksport.pt
+DTSTAMP:20250905T100847Z
+DTSTART;TZID=Europe/Lisbon:20251130T110000
+DTEND;TZID=Europe/Lisbon:20251130T111700
 SUMMARY:🏎 Troféu Karting Linksport - Silver – M3
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m

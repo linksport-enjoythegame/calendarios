@@ -225,7 +225,7 @@ DTSTAMP:20250907T210523Z
 DTSTART;TZID=Europe/Lisbon:20251116T083000
 DTEND;TZID=Europe/Lisbon:20251116T084500
 SUMMARY:🏁 Troféu Karting Linksport - Fortes - Treinos Livres
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres de 15 minutos antes das provas Fortes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -237,7 +237,7 @@ DTSTAMP:20250907T194500Z
 DTSTART;TZID=Europe/Lisbon:20251116T093000
 DTEND;TZID=Europe/Lisbon:20251116T094700
 SUMMARY:🏎 Troféu Karting Linksport - Fortes – M1
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -249,7 +249,7 @@ DTSTAMP:20250907T194500Z
 DTSTART;TZID=Europe/Lisbon:20251116T103000
 DTEND;TZID=Europe/Lisbon:20251116T104700
 SUMMARY:🏎 Troféu Karting Linksport - Fortes – M2
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -260,6 +260,54 @@ UID:Fortes-M3-20251116-1130@kartinglinksport.pt
 DTSTAMP:20250907T194500Z
 DTSTART;TZID=Europe/Lisbon:20251116T113000
 DTEND;TZID=Europe/Lisbon:20251116T114700
+SUMMARY:🏎 Troféu Karting Linksport - Fortes – M3
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TreinosLivres-Fortes-20251130-0830@kartinglinksport.pt
+DTSTAMP:20250907T210523Z
+DTSTART;TZID=Europe/Lisbon:20251130T083000
+DTEND;TZID=Europe/Lisbon:20251130T084500
+SUMMARY:🏁 Troféu Karting Linksport - Fortes - Treinos Livres
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres de 15 minutos antes das provas Fortes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-M1-20251130-0930@kartinglinksport.pt
+DTSTAMP:20250907T194500Z
+DTSTART;TZID=Europe/Lisbon:20251130T093000
+DTEND;TZID=Europe/Lisbon:20251130T094700
+SUMMARY:🏎 Troféu Karting Linksport - Fortes – M1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-M2-20251130-1030@kartinglinksport.pt
+DTSTAMP:20250907T194500Z
+DTSTART;TZID=Europe/Lisbon:20251130T103000
+DTEND;TZID=Europe/Lisbon:20251130T104700
+SUMMARY:🏎 Troféu Karting Linksport - Fortes – M2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-M3-20251130-1130@kartinglinksport.pt
+DTSTAMP:20250907T194500Z
+DTSTART;TZID=Europe/Lisbon:20251130T113000
+DTEND;TZID=Europe/Lisbon:20251130T114700
 SUMMARY:🏎 Troféu Karting Linksport - Fortes – M3
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 15m\\nM1, M2, M3: 5+12m

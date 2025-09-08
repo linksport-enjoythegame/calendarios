@@ -224,7 +224,7 @@ DTSTAMP:20250907T213000Z
 DTSTART;TZID=Europe/Lisbon:20251116T153000
 DTEND;TZID=Europe/Lisbon:20251116T154500
 SUMMARY:🏁 Troféu Karting Linksport - Platina - Treinos Livres
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres de 15 minutos às 15:30 antes das provas Platina
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -236,7 +236,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T160000
 DTEND;TZID=Europe/Lisbon:20251116T161700
 SUMMARY:🏎 Troféu Karting Linksport - Platina – M1
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -248,7 +248,7 @@ DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T170000
 DTEND;TZID=Europe/Lisbon:20251116T171700
 SUMMARY:🏎 Troféu Karting Linksport - Platina – M2
-LOCATION:Kartódromo de Alcanede
+LOCATION:Kartódromo de Bombarral
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -259,6 +259,54 @@ UID:Platina-M3-20251116-1800@kartinglinksport.pt
 DTSTAMP:20250907T183057Z
 DTSTART;TZID=Europe/Lisbon:20251116T180000
 DTEND;TZID=Europe/Lisbon:20251116T181700
+SUMMARY:🏎 Troféu Karting Linksport - Platina – M3
+LOCATION:Kartódromo de Bombarral
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TreinosLivres-Platina-20251130-1530@kartinglinksport.pt
+DTSTAMP:20250907T213000Z
+DTSTART;TZID=Europe/Lisbon:20251130T153000
+DTEND;TZID=Europe/Lisbon:20251130T154500
+SUMMARY:🏁 Troféu Karting Linksport - Platina - Treinos Livres
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres de 15 minutos às 15:30 antes das provas Platina
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Platina-M1-20251130-1600@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T160000
+DTEND;TZID=Europe/Lisbon:20251130T161700
+SUMMARY:🏎 Troféu Karting Linksport - Platina – M1
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Platina-M2-20251130-1700@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T170000
+DTEND;TZID=Europe/Lisbon:20251130T171700
+SUMMARY:🏎 Troféu Karting Linksport - Platina – M2
+LOCATION:Kartódromo de Alcanede
+DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Platina-M3-20251130-1800@kartinglinksport.pt
+DTSTAMP:20250907T183057Z
+DTSTART;TZID=Europe/Lisbon:20251130T180000
+DTEND;TZID=Europe/Lisbon:20251130T181700
 SUMMARY:🏎 Troféu Karting Linksport - Platina – M3
 LOCATION:Kartódromo de Alcanede
 DESCRIPTION:Treinos Livres: 15m\nM1\, M2\, M3: 5+12m
