@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Troféu Karting Linksport//Calendário//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Troféu Karting Linksport 2026 - Temporada II - Fortes
+X-WR-CALNAME:Troféu Karting Linksport 2026 - Temporada II - Fortes
+
+BEGIN:VEVENT
+UID:Fortes-E1-20260927@kartinglinksport.pt
+DTSTAMP:20260925T214948Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🏎 Troféu Karting Linksport 2026 - Temporada II - Fortes - 1ª Etapa
+LOCATION:Euroindy - Kartódromo da Batalha
+DESCRIPTION:Troféu Karting Linksport 2026 - Temporada II
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-E2-20261011@kartinglinksport.pt
+DTSTAMP:20260925T214948Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:🏎 Troféu Karting Linksport 2026 - Temporada II - Fortes - 2ª Etapa
+LOCATION:Kartódromo de Évora
+DESCRIPTION:Troféu Karting Linksport 2026 - Temporada II
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-E3-20261101@kartinglinksport.pt
+DTSTAMP:20260925T214948Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🏎 Troféu Karting Linksport 2026 - Temporada II - Fortes - 3ª Etapa
+LOCATION:Kartódromo de Leiria
+DESCRIPTION:Troféu Karting Linksport 2026 - Temporada II
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-E4-20261115@kartinglinksport.pt
+DTSTAMP:20260925T214948Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:🏎 Troféu Karting Linksport 2026 - Temporada II - Fortes - 4ª Etapa
+LOCATION:Kartódromo de Abrantes
+DESCRIPTION:Troféu Karting Linksport 2026 - Temporada II
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Fortes-E5-20261206@kartinglinksport.pt
+DTSTAMP:20260925T214948Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:🏎 Troféu Karting Linksport 2026 - Temporada II - Fortes - 5ª Etapa
+LOCATION:Campera Karting
+DESCRIPTION:Troféu Karting Linksport 2026 - Temporada II
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR
