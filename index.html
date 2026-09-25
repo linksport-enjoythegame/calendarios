@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Subscrição dos calendários do Troféu Karting Linksport 2026 - Temporada II.">
+  <meta name="theme-color" content="#101820">
+  <title>Calendários Linksport 2026 - Temporada II</title>
+  <style>
+    :root { --bg:#f4f6f8; --card:#fff; --text:#17212b; --muted:#66727f; --red:#e31e24; --red-dark:#b81117; --dark:#101820; --border:#dce2e8; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Arial,Helvetica,sans-serif; color:var(--text); background:var(--bg); line-height:1.5; }
+    header { padding:46px 20px; text-align:center; color:#fff; background:linear-gradient(135deg,#101820,#273746); }
+    header h1 { margin:0 0 8px; font-size:clamp(28px,5vw,46px); }
+    header p { margin:0; color:#d7dde3; font-size:18px; }
+    main { width:min(1150px,calc(100% - 28px)); margin:30px auto 48px; }
+    .intro { margin-bottom:28px; padding:20px; border:1px solid var(--border); border-radius:14px; background:var(--card); }
+    .intro h2 { margin:0 0 8px; }
+    .intro p { margin:0; color:var(--muted); }
+    .section-title { margin:30px 0 14px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:18px; }
+    .categoria { padding:20px; border:1px solid var(--border); border-radius:14px; background:var(--card); box-shadow:0 8px 24px rgba(16,24,32,.07); }
+    .categoria h3 { margin:0 0 6px; font-size:20px; }
+    .categoria .periodo { margin:0 0 18px; color:var(--muted); font-size:14px; }
+    .platform { margin-top:16px; padding-top:16px; border-top:1px solid var(--border); }
+    .platform strong { display:block; margin-bottom:8px; }
+    .copy-row { display:flex; gap:8px; }
+    input[type=text] { min-width:0; flex:1; padding:10px; border:1px solid #c7d0d9; border-radius:8px; font-size:13px; background:#fafafa; }
+    button,.button { display:inline-flex; align-items:center; justify-content:center; min-height:42px; padding:10px 13px; border:0; border-radius:8px; font-weight:700; cursor:pointer; text-decoration:none; }
+    button { color:#fff; background:#465563; }
+    .google { width:100%; margin-top:9px; color:#fff; background:#4285f4; }
+    .apple { width:100%; color:#fff; background:var(--red); }
+    button:hover { background:#34414c; }
+    .google:hover { background:#2f6fd0; }
+    .apple:hover { background:var(--red-dark); }
+    .status { min-height:20px; margin-top:7px; color:#237a3b; font-size:13px; }
+    footer { padding:26px 20px; text-align:center; color:#d7dde3; background:var(--dark); }
+    footer p { margin:4px; }
+    @media (max-width:560px) { .copy-row { flex-direction:column; } .copy-row button { width:100%; } .grid { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+<header>
+  <h1>🏁 Calendários Linksport 2026</h1>
+  <p>Troféu Karting Linksport 2026 - Temporada II</p>
+</header>
+<main>
+  <section class="intro">
+    <h2>Escolhe a tua categoria</h2>
+    <p>No Android, copia a ligação e adiciona-a no Google Calendar através de “Adicionar por URL”. No iPhone, iPad ou Mac, usa o botão de subscrição Apple Calendar.</p>
+  </section>
+  <div id="calendar-sections"></div>
+</main>
+<footer>
+  <p><strong>Troféu Karting Linksport 2026 - Temporada II</strong></p>
+  <p>Calendários oficiais em formato iCalendar (.ics)</p>
+</footer>
+<script>
+  const baseUrl = 'https://linksport-enjoythegame.github.io/calendarios/';
+  const googleCalendarUrl = 'https://calendar.google.com/calendar/u/0/r/settings/addbyurl';
+  const groups = [
+    { title:'Categorias de sábado', period:'Setembro a Dezembro de 2026', items:[
+      ['Júnior','trofeu_karting_linksport_2026_temporada_ii_junior.ics'],
+      ['Mini-Resistência','trofeu_karting_linksport_2026_temporada_ii_mini_resistencia.ics'],
+      ['Sprints SWS','trofeu_karting_linksport_2026_temporada_ii_sprints_sws.ics'],
+      ['Jurassic Kart Cup','trofeu_karting_linksport_2026_temporada_ii_jurassic_kart_cup.ics'],
+      ['Endurance Pro 4H','trofeu_karting_linksport_2026_temporada_ii_endurance_pro_4h.ics']
+    ]},
+    { title:'Categorias de domingo', period:'Setembro a Dezembro de 2026', items:[
+      ['Fortes','trofeu_karting_linksport_2026_temporada_ii_fortes.ics'],
+      ['Silver','trofeu_karting_linksport_2026_temporada_ii_silver.ics'],
+      ['Pro','trofeu_karting_linksport_2026_temporada_ii_pro.ics'],
+      ['Gold','trofeu_karting_linksport_2026_temporada_ii_gold.ics'],
+      ['Platina','trofeu_karting_linksport_2026_temporada_ii_platina.ics'],
+      ['Bronze','trofeu_karting_linksport_2026_temporada_ii_bronze.ics']
+    ]},
+    { title:'Rookies e Endurance AM', period:'Outubro a Dezembro de 2026', items:[
+      ['Rookies','trofeu_karting_linksport_2026_temporada_ii_rookies.ics'],
+      ['Endurance AM','trofeu_karting_linksport_2026_temporada_ii_endurance_am.ics']
+    ]}
+  ];
+
+  function idFrom(name) { return name.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-zA-Z0-9]/g,'_'); }
+  function copyLink(inputId, statusId) {
+    const input = document.getElementById(inputId);
+    const status = document.getElementById(statusId);
+    navigator.clipboard.writeText(input.value).then(() => { status.textContent='Ligação copiada.'; }).catch(() => {
+      input.select(); document.execCommand('copy'); status.textContent='Ligação copiada.';
+    });
+  }
+
+  const root = document.getElementById('calendar-sections');
+  groups.forEach(group => {
+    const heading = document.createElement('h2'); heading.className='section-title'; heading.textContent=group.title; root.appendChild(heading);
+    const grid = document.createElement('section'); grid.className='grid'; grid.setAttribute('aria-label',group.title);
+    group.items.forEach(([name,file]) => {
+      const id=idFrom(name), httpsUrl=baseUrl+file, webcalUrl='webcal://'+baseUrl.replace(/^https?:\/\//,'')+file;
+      const card=document.createElement('article'); card.className='categoria';
+      card.innerHTML=`<h3>🏎 ${name}</h3><p class="periodo">5 etapas · ${group.period}</p>
+        <div class="platform"><strong>📱 Android / Google Calendar</strong><div class="copy-row"><input id="url_${id}" type="text" value="${httpsUrl}" readonly aria-label="Ligação do calendário ${name}"><button type="button" onclick="copyLink('url_${id}','status_${id}')">Copiar ligação</button></div><a class="button google" href="${googleCalendarUrl}" target="_blank" rel="noopener noreferrer">Abrir Google Calendar</a><div class="status" id="status_${id}" aria-live="polite"></div></div>
+        <div class="platform"><strong>🍏 iOS / macOS</strong><a class="button apple" href="${webcalUrl}">Subscrever no Apple Calendar</a></div>`;
+      grid.appendChild(card);
+    });
+    root.appendChild(grid);
+  });
+</script>
+</body>
+</html>
